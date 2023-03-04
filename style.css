@@ -34,6 +34,7 @@ div {
 p {
   font-size: 25px;
   color: white;
+  width: 80%;
   display: flex;
   justify-content: center;
   align-items: center;
